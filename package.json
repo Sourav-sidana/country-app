@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
    "start" : "npx parcel index.html",
-    "build" : "parcel build inde.html"
+    "build" : "parcel build index.html"
   },
   "author": "",
   "license": "ISC",
