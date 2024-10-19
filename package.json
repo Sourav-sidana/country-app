@@ -1,0 +1,21 @@
+{
+  "name": "rest-country-react",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+   "start" : "npx parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ract": "^0.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "router-dom": "^2.2.11"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  }
+}
